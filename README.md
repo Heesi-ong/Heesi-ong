@@ -7,6 +7,7 @@ Task 관리, 실시간 알림/채팅, 문서·파일 관리, 진행률 통계를
 **🔗 배포**: https://teamflow-frontend-qpod.onrender.com
 **📦 저장소**: https://github.com/Heesi-ong/teamflow
 
+![Landing Page](./01-home.png)
 ![Kanban Board](./03-kanban-board.png)
 
 **Tech Stack**: React · TypeScript · Vite · Spring Boot · PostgreSQL · Redis · WebSocket/STOMP · SSE · AWS S3 · Docker · GitHub Actions
